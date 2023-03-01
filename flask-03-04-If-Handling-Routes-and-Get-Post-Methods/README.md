@@ -117,7 +117,7 @@ When sending request, the client can send data with using different http methods
 # Create a function named head which shows the massage as "This is my first conditions experience" in `index.html` 
 # and assign to the route of ('/')
 
-# Create a function named header which prints elements of a list, one by one in `body.html` 
+# Create a function named header which prints numbers elements of list one by one in `body.html` 
 # and assign to the route of ('/mylist')
 
 # run this app in debug mode on your local.
@@ -195,12 +195,12 @@ When sending request, the client can send data with using different http methods
 
 
 # Create a function named `index` which uses template file named `index.html` 
-# send two numbers as template variable to the app.py and assign route of no path ('/') 
+#and assign route of no path ('/') 
 
 
 # calculate sum of them using "lcm" function, then sent the result to the 
 # "result.hmtl" file and assign route of path ('/calc'). 
-# When the user comes directly "/calc" path, "Since this is a GET request, LCM has not been calculated" string returns to them with "result.html" file
+# When the user comes directly to the "/calc" path, display the following message: "Since this is a GET request, LCM has not been calculated" string returns to them with "result.html" file
 
 
 # Add a statement to run the Flask application which can be debugged.
